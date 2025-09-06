@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Harsh Bansal</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | ML Enthusiast</h3>
 
-
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <div style="width: 60%">
-
+<table >
+  <tr>
+    <td>
+      
 ## 🚀 About Me
 - 🎓 CSE graduate from **IIIT Jabalpur**  
 - 👨‍💻 Built **600+ PRs** merged into production across multiple projects  
 - 💡 Passionate about **building scalable products** that solve real problems  
 - 🛠️ Worked on **frontend apps, dashboards, backend services, ML models, and microservices**  
 
-  </div>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="coding gif"/>
-</div>
-
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="coding gif"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🔭 What I Do
@@ -47,14 +49,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=hars008&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
-
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hars008/hars008/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hars008/hars008/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hars008/hars008/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
